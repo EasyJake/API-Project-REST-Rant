@@ -68,3 +68,5 @@ Possible bonus ideas:
 * Update for comments
 * Aggregate rating for a place
 * Auto-complete state dropdown
+
+* easyJake
